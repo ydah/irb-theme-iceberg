@@ -1,12 +1,7 @@
 # frozen_string_literal: true
 
-require_relative "iceberg/version"
-
-module Irb
-  module Theme
-    module Iceberg
-      class Error < StandardError; end
-      # Your code goes here...
-    end
-  end
+Reline::Face.config(:completion_dialog) do |conf|
+  conf.define(:default, foreground: "#c6c8d1", background: "#88B0C1")
+  conf.define(:enhanced, foreground: "#c6c8d1", background: "#444b71")
+  conf.define(:scrollbar, foreground: "#c6c8d1", background: "#818596")
 end
