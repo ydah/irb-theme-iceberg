@@ -1,4 +1,4 @@
-# Irb::Theme::Iceberg
+# Irb::Theme::Iceberg [![Gem Version](https://badge.fury.io/rb/irb-theme-iceberg.svg)](https://badge.fury.io/rb/irb-theme-iceberg)
 
 🟦 Bluish theme for IRB based on the [Iceberg](https://cocopon.github.io/iceberg.vim/) color scheme.
 
