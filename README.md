@@ -2,6 +2,8 @@
 
 🟦 Bluish theme for IRB based on the [Iceberg](https://cocopon.github.io/iceberg.vim/) color scheme.
 
+![image](https://github.com/ydah/irb-theme-iceberg/assets/13041216/f299424b-adb1-4d34-9bc8-47e7f62a679c)
+
 ## Installation
 
 Install the gem and add to the application's Gemfile by executing:
