@@ -24,6 +24,13 @@ Add the following to your .irbrc
 require "irb/theme/iceberg"
 ```
 
+If you are using Windows terminal.
+You need to add the following to your .irbrc
+
+```ruby
+Reline::Face.force_truecolor
+```
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at <https://github.com/ydah/irb-theme-iceberg>.
